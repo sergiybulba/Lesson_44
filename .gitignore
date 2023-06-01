@@ -1,0 +1,8 @@
+﻿bin
+obj
+Properties
+App.config
+Lesson_44.csproj
+NLog.Config
+NLog.xsd
+packages.config
